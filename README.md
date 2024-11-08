@@ -1,1 +1,1 @@
-This is a myntra clone website. 
+Myntra clone website. 
